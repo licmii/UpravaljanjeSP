@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YiQ1K7/gXhI=",
+  "dgSpecHash": "IhAiIVuPdIE=",
   "success": true,
-  "projectFilePath": "D:\\downloads\\UrosMilic2021201491\\RentalCar\\RentalCar.Application\\RentalCar.Application.csproj",
+  "projectFilePath": "C:\\Users\\Uros\\OneDrive\\Desktop\\UrosMilic2021201491\\RentalCar\\RentalCar.Application\\RentalCar.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Uros\\.nuget\\packages\\aspnetcore.identity.mongodbcore\\3.1.2\\aspnetcore.identity.mongodbcore.3.1.2.nupkg.sha512",
     "C:\\Users\\Uros\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",

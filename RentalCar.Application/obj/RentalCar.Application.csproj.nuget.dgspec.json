@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\downloads\\UrosMilic2021201491\\RentalCar\\RentalCar.Application\\RentalCar.Application.csproj": {}
+    "C:\\Users\\Uros\\OneDrive\\Desktop\\UrosMilic2021201491\\RentalCar\\RentalCar.Application\\RentalCar.Application.csproj": {}
   },
   "projects": {
-    "D:\\downloads\\UrosMilic2021201491\\RentalCar\\RentalCar.Application\\RentalCar.Application.csproj": {
+    "C:\\Users\\Uros\\OneDrive\\Desktop\\UrosMilic2021201491\\RentalCar\\RentalCar.Application\\RentalCar.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\downloads\\UrosMilic2021201491\\RentalCar\\RentalCar.Application\\RentalCar.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Uros\\OneDrive\\Desktop\\UrosMilic2021201491\\RentalCar\\RentalCar.Application\\RentalCar.Application.csproj",
         "projectName": "RentalCar.Application",
-        "projectPath": "D:\\downloads\\UrosMilic2021201491\\RentalCar\\RentalCar.Application\\RentalCar.Application.csproj",
+        "projectPath": "C:\\Users\\Uros\\OneDrive\\Desktop\\UrosMilic2021201491\\RentalCar\\RentalCar.Application\\RentalCar.Application.csproj",
         "packagesPath": "C:\\Users\\Uros\\.nuget\\packages\\",
-        "outputPath": "D:\\downloads\\UrosMilic2021201491\\RentalCar\\RentalCar.Application\\obj\\",
+        "outputPath": "C:\\Users\\Uros\\OneDrive\\Desktop\\UrosMilic2021201491\\RentalCar\\RentalCar.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uros\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\downloads\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\RentalCar.Domain.csproj": {
-                "projectPath": "D:\\downloads\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\RentalCar.Domain.csproj"
+              "C:\\Users\\Uros\\OneDrive\\Desktop\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\RentalCar.Domain.csproj": {
+                "projectPath": "C:\\Users\\Uros\\OneDrive\\Desktop\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\RentalCar.Domain.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "D:\\downloads\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\RentalCar.Domain.csproj": {
+    "C:\\Users\\Uros\\OneDrive\\Desktop\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\RentalCar.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\downloads\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\RentalCar.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Uros\\OneDrive\\Desktop\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\RentalCar.Domain.csproj",
         "projectName": "RentalCar.Domain",
-        "projectPath": "D:\\downloads\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\RentalCar.Domain.csproj",
+        "projectPath": "C:\\Users\\Uros\\OneDrive\\Desktop\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\RentalCar.Domain.csproj",
         "packagesPath": "C:\\Users\\Uros\\.nuget\\packages\\",
-        "outputPath": "D:\\downloads\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Uros\\OneDrive\\Desktop\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uros\\AppData\\Roaming\\NuGet\\NuGet.Config",
