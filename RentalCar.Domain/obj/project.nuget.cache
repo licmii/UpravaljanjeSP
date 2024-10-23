@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AGvt2lvBrzI=",
+  "dgSpecHash": "SeD8cWKA9jY=",
   "success": true,
-  "projectFilePath": "D:\\downloads\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\RentalCar.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Uros\\OneDrive\\Desktop\\UrosMilic2021201491\\RentalCar\\RentalCar.Domain\\RentalCar.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Uros\\.nuget\\packages\\aspnetcore.identity.mongodbcore\\3.1.2\\aspnetcore.identity.mongodbcore.3.1.2.nupkg.sha512",
     "C:\\Users\\Uros\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
